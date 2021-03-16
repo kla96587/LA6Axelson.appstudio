@@ -1,4 +1,4 @@
-/*
+
 let memberName = " "
 
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
@@ -12,4 +12,4 @@ btnRun.onclick=function(){
     members.push(memberName)
         }
     }
- */   
+
